@@ -12,8 +12,3 @@ I have little experience in the industry, so I would like to learn more
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sonhoccode&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonhoccode&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Sonhoccode&icon=0&color=0)](https://visitcount.itsvg.in)
