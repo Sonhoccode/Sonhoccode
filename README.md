@@ -1,6 +1,6 @@
 # 💫About Me :
-I am a student at Vietnam Aviation Academy
-I have little experience in the industry, so I would like to learn more
+- I'm a student at Vietnam Aviation Academy
+- I have little experience in the industry, so I would like to learn more
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nos.gnaoh1193) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nos.gnaoh_) 
