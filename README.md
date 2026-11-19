@@ -53,7 +53,6 @@ I'm a final-year Information Technology student at **Vietnam Aviation Academy**,
 | **Portfolio Website** | Responsive React + Tailwind CSS portfolio with Vietnamese/English support and UI animations. | [Website](https://portfolio.hsonspace.id.vn/) · [Code](https://github.com/Sonhoccode/portfolio) |
 | **NRL Lookup** | Student lookup interface built with React + Tailwind CSS and connected to Django REST APIs. | [Website](https://nrlvaa.hsonspace.id.vn/) |
 | **Hotel Management System** | Component-based React interfaces, API integration, and exploration of a Vietnamese AI chatbot with RAG. | [Code](https://github.com/1usuzu/hotel-manager) |
-| **To-Do List App** | Task creation, editing, deletion, and status tracking with a React interface and rule-based chatbot support. | [Code](https://github.com/Sonhoccode/TODOLIST) |
 
 Visit my [portfolio](https://portfolio.hsonspace.id.vn/) for project details and my CV.
 
